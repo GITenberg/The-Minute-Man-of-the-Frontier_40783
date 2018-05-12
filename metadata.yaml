@@ -1,0 +1,30 @@
+_repo: The-Minute-Man-of-the-Frontier_40783
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40783-h/images/frontcover.jpg
+creator:
+  author:
+    agent_name: Puddefoot, William George
+    aliases:
+    - Puddefoot, W. G. (William George)
+    - Puddefoot, William G. (William George)
+    birthdate: 1842
+    deathdate: 1925
+    gutenberg_agent_id: '40818'
+    url: http://www.gutenberg.org/2009/agents/40818
+description: ''
+gutenberg_issued: '2012-09-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40783'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Frontier and pioneer life -- West (U.S.)'
+- !lcc 'F590.3'
+- !lcsh 'Missions -- West (U.S.)'
+title: The Minute Man on the Frontier
+url: http://www.gutenberg.org/ebooks/40783
